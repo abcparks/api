@@ -1,4 +1,4 @@
-package cn.alex.util;
+package cn.alex.util.url;
 
 import org.springframework.util.LinkedMultiValueMap;
 import org.springframework.util.MultiValueMap;
